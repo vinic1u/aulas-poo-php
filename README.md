@@ -1,4 +1,5 @@
 <h1 align="center">Aula de POO pela Faculdade Integrado</h1>
+<h2>⛏️ Em andamento</h2>
 <p align="center">Contexto do Problema de POO:  companhia aérea "Integrated Airlines" está dando um grande passo para modernizar e aprimorar seu sistema de gerenciamento de voos. Para essa missão, a empresa fechou parceria com a conceituada equipe de desenvolvimento de software "TADS Solutions". O objetivo é criar um sistema que aprimore a eficiência operacional e ofereça uma experiência de viagem ainda mais segura e agradável aos passageiros.
 
 A "Integrated Airlines" está centrando suas melhorias nas áreas-chave de gestão de pessoal, serviços de bordo, aeronaves e voos. Para isso, a equipe de desenvolvimento precisa entender profundamente as nuances de cada função, desde passageiros e pilotos até o serviço de bordo. A empresa aérea espera que o sistema resultante seja capaz de lidar com a complexidade das operações, integrando dados cruciais para uma operação tranquila.
