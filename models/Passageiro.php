@@ -36,6 +36,26 @@ class Passageiro
         return $this->telefone;
     }
 
+    // Setters
+    public function setNome(string $novoNome) : void
+    {
+        $this->nome = $novoNome;
+    }
+    public function setPassaporte(string $novoPassaporte) : void
+    {
+        $this->passaporte = $novoPassaporte;
+    }
+    public function setEmail(string $novoEmail) : void
+    {
+        $this->email = $novoEmail;
+    }
+    public function setTelefone(string $novoTelefone) : void
+    {
+        $this->nome = $novoTelefone;
+    }
+
+
+
    
     
 

@@ -48,8 +48,33 @@ class Funcionario{
         return $this->status;
     }
     
-    # Setters (Alguns)
-    public function setStatus(string $status)
+    # Setters
+    public function setNome(string $novoNome) : void
+    {
+        $this->nome = $novoNome;
+    }
+
+    public function setPassaporte(string $novoPassaporte) : void
+    {
+        $this->passaporte = $novoPassaporte;
+    }
+
+    public function setCargo(string $novoCargo) : void
+    {
+        $this->cargo = $novoCargo;
+    }
+
+    public function setTipoDeDocumentoIdentificacao(string $novoTipoDeDocumentoIdentificacao) : void
+    {
+        $this->tipoDeDocumentoIdentificacao = $novoTipoDeDocumentoIdentificacao;
+    }
+
+    public function setDocumentoCodigo(string $novoDocumentoCodigo) : void
+    {
+        $this->documentoCodigo = $novoDocumentoCodigo;
+    }
+
+    public function setStatus(string $status) : void
     {
         $this->status = $status;
     }

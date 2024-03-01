@@ -38,8 +38,24 @@ class Aeronave
         return $this->capacidadePessoas;
     }
 
-    # Setters (Alguns)
-    public function setStatus(string $status) : void{
+    # Setters
+    public function setEmpresaRepresentante(string $novoEmpresaRepresentante) : void
+    {
+        $this->empresaRepresentante = $novoEmpresaRepresentante;
+    }
+
+    public function setCapacidadePesoToneladas(string $novoCapacidadePesoToneladas) : void
+    {
+        $this->capacidadePesoToneladas = $novoCapacidadePesoToneladas;
+    }
+
+    public function setCapacidadePessoas(string $novoCapacidadePessoas) : void
+    {
+        $this->capacidadePessoas = $novoCapacidadePessoas;
+    }
+    
+    public function setStatus(string $status) : void
+    {
         $this->status = $status;
     }
 
